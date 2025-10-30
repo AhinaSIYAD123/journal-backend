@@ -1,0 +1,76 @@
+{
+  "history": [
+    {
+      "id": "88da",
+      "language": "english",
+      "title": "Emotions Vocabulary",
+      "notes": "Elated – Extremely happy or joyful\n\nAnxious – Worried or uneasy about something\n\nRelieved – Feeling happy because something unpleasant is over\n\nFrustrated – Feeling upset due to being unable to change something",
+      "timestamp": "2025-10-28T16:39:28.183Z"
+    },
+    {
+      "id": "07c1",
+      "language": "french",
+      "title": "Basic Greetings in French",
+      "notes": "Bonjour – Hello / Good morning\n\nBonsoir – Good evening\n\nMerci – Thank you\n\nS’il vous plaît – Please\n\nAu revoir – Goodbye",
+      "timestamp": "2025-10-28T16:42:05.960Z"
+    },
+    {
+      "id": "a70a",
+      "language": "japaneese",
+      "title": "Introducing Yourself",
+      "notes": "こんにちは (Konnichiwa) – Hello\n\nはじめまして (Hajimemashite) – Nice to meet you\n\nわたしのなまえは [Name] です (Watashi no namae wa [Name] desu) – My name is [Name]\n\nよろしくおねがいします (Yoroshiku onegaishimasu) – Please treat me kindly",
+      "timestamp": "2025-10-28T16:42:43.482Z"
+    },
+    {
+      "id": "04c5",
+      "language": "german",
+      "title": " Wochentage (Days of the Week)",
+      "notes": "Montag – Monday\n\nDienstag – Tuesday\n\nMittwoch – Wednesday\n\nDonnerstag – Thursday\n\nFreitag – Friday\n\nSamstag – Saturday\n\nSonntag – Sunday",
+      "timestamp": "2025-10-28T16:43:52.913Z"
+    },
+    {
+      "id": "5031",
+      "language": "italian",
+      "title": "Everyday Expressions",
+      "notes": "Ciao – Hello / Goodbye\n\nPer favore – Please\n\nGrazie – Thank you\n\nScusa – Excuse me\n\nBuongiorno – Good morning",
+      "timestamp": "2025-10-28T16:45:09.616Z"
+    },
+    {
+      "id": "b916",
+      "language": "",
+      "title": "",
+      "notes": "",
+      "timestamp": "2025-10-30T12:53:46.586Z"
+    }
+  ],
+  "favourites": [
+    {
+      "id": "07c1",
+      "language": "french",
+      "title": "Basic Greetings in French",
+      "notes": "Bonjour – Hello / Good morning\n\nBonsoir – Good evening\n\nMerci – Thank you\n\nS’il vous plaît – Please\n\nAu revoir – Goodbye",
+      "timestamp": "2025-10-28T16:42:05.960Z"
+    },
+    {
+      "id": "d4fb",
+      "language": "german",
+      "title": "comasiva",
+      "notes": "gahksk",
+      "timestamp": "2025-10-29T17:22:07.941Z"
+    },
+    {
+      "id": "88da",
+      "language": "english",
+      "title": "Emotions Vocabulary",
+      "notes": "Elated – Extremely happy or joyful\n\nAnxious – Worried or uneasy about something\n\nRelieved – Feeling happy because something unpleasant is over\n\nFrustrated – Feeling upset due to being unable to change something",
+      "timestamp": "2025-10-28T16:39:28.183Z"
+    },
+    {
+      "id": "04c5",
+      "language": "german",
+      "title": " Wochentage (Days of the Week)",
+      "notes": "Montag – Monday\n\nDienstag – Tuesday\n\nMittwoch – Wednesday\n\nDonnerstag – Thursday\n\nFreitag – Friday\n\nSamstag – Saturday\n\nSonntag – Sunday",
+      "timestamp": "2025-10-28T16:43:52.913Z"
+    }
+  ]
+}
